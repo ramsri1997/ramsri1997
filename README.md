@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ramsri1997
-- 👀 I’m interested in ...Coding of SQL
-- 🌱 I’m currently learning ...learning SQL 
-- 💞️ I’m looking to collaborate on ...SQL 
-- 📫 How to reach me ...
+👋 Hi, I’m Sriram Yerrapragada
+👀 Passionate about: Analyzing trends
+🌱 Currently: Shaping sustainable energy by analyzing data in the automotive sector
+💞️ Open to: Collaborating and exploring insights across various industries
+📫 Reach me at: 9701445902
 
 <!---
 ramsri1997/ramsri1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
